@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "grandadventure:block/wild_wheat_bottom"
+    },
+    "half=upper": {
+      "model": "grandadventure:block/wild_wheat_top"
+    }
+  }
+}

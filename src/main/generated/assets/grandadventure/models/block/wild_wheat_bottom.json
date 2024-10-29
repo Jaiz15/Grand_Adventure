@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "grandadventure:block/wild_wheat_bottom"
+  }
+}

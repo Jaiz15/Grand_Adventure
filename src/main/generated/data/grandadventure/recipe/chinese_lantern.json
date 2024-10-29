@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "K": {
+      "item": "minecraft:torch"
+    },
+    "R": {
+      "item": "minecraft:paper"
+    }
+  },
+  "pattern": [
+    "RRR",
+    "RKR",
+    "RRR"
+  ],
+  "result": {
+    "count": 1,
+    "id": "grandadventure:chinese_lantern"
+  }
+}

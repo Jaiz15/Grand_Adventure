@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "grandadventure:ancient_ruins",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 576880159,
+    "spacing": 22,
+    "separation": 7,
+    "exclusion_zone": {
+      "other_set": "grandadventure:ancient_castle",
+      "chunk_count": 6
+    }
+  }
+}

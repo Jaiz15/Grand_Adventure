@@ -1,0 +1,16 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "grandadventure:block/growth_moss",
+        "growth_moss": "grandadventure:block/growth_moss"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0.1 ],
+            "to": [ 16, 16, 0.1 ],
+            "faces": {
+                "north": { "uv": [ 16, 0, 0, 16 ], "texture": "#growth_moss" },
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#growth_moss" }
+            }
+        }
+    ]
+}

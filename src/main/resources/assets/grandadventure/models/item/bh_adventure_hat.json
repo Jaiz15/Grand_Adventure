@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "grandadventure:item/bh_adventure_hat"
+  }
+}

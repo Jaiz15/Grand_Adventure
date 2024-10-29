@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "jaiz.grandadventure.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ExampleMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "ItemRendererAccessor",
+    "ModelLoaderMixin",
+    "ItemRendererMixin"
+  ]
+}

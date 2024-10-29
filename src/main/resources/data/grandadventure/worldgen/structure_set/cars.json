@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "grandadventure:cars",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 476170159,
+    "spacing": 37,
+    "separation": 3,
+    "exclusion_zone": {
+      "other_set": "grandadventure:ancient_castle",
+      "chunk_count": 6
+    }
+  }
+}

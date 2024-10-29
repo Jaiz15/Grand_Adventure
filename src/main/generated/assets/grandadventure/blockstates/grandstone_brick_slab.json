@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "grandadventure:block/grandstone_brick_slab"
+    },
+    "type=double": {
+      "model": "grandadventure:block/grandstone_bricks"
+    },
+    "type=top": {
+      "model": "grandadventure:block/grandstone_brick_slab_top"
+    }
+  }
+}

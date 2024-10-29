@@ -1,0 +1,10 @@
+// 1.21.1	2024-10-28T17:20:35.0092585	Grand Adventure - Survival Friendly/Tags for minecraft:block
+f8ccea6cc6d610ad758631dca037f252cc3fbc51 data\minecraft\tags\block\stairs.json
+f63b7bf647ef745dce4be2a4effcc23ba9aeedf6 data\minecraft\tags\block\tall_flowers.json
+f63b7bf647ef745dce4be2a4effcc23ba9aeedf6 data\minecraft\tags\block\replaceable.json
+8278dfe29d7f4d9489a6f29892eabcf392431379 data\minecraft\tags\block\stone_bricks.json
+e06d7a8ccdaba728ecf6cfd7c20bddb5860d4e8b data\minecraft\tags\block\slabs.json
+85c4fa4f069040dcbf8631abfd0184c6f4417f9a data\minecraft\tags\block\wool_carpets.json
+5166db7c7f42f54ee441eabce8d9cef6e6f6d9be data\minecraft\tags\block\walls.json
+25f141dd51cf69e91ef1f8bb2e4006eb62304283 data\minecraft\tags\block\mineable\pickaxe.json
+194202da5cec45292b413b9e9ecfa614046a7d04 data\minecraft\tags\block\climbable.json

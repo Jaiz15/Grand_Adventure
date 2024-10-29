@@ -1,0 +1,8 @@
+{
+  "comparator_output": 10,
+  "description": {
+    "translate": "jukebox_song.grandadventure.slum_space"
+  },
+  "length_in_seconds": 68.0,
+  "sound_event": "grandadventure:slum_space"
+}

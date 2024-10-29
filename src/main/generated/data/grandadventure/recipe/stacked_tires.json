@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "grandadventure:tire_block"
+    },
+    {
+      "item": "grandadventure:tire_block"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "grandadventure:stacked_tires"
+  }
+}

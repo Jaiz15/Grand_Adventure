@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "L": {
+      "item": "minecraft:string"
+    },
+    "R": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "L L",
+    "LRL",
+    "L L"
+  ],
+  "result": {
+    "count": 6,
+    "id": "grandadventure:rope_ladder"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 10,
+  "description": {
+    "translate": "jukebox_song.grandadventure.survivors_melody"
+  },
+  "length_in_seconds": 46.0,
+  "sound_event": "grandadventure:survivors_melody"
+}

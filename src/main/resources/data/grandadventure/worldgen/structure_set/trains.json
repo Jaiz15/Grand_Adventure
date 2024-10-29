@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "grandadventure:trains",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 8663641135,
+    "spacing": 34,
+    "separation": 9,
+    "exclusion_zone": {
+      "other_set": "grandadventure:ancient_castle",
+      "chunk_count": 6
+    }
+  }
+}

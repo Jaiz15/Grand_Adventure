@@ -1,0 +1,59 @@
+{
+	"credit": "Made By LeahLacking",
+	"textures": {
+		"0": "grandadventure:item/maraca_3d",
+		"particle": "grandadventure:item/maraca_3d"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 6, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"faces": {
+				"north": {"uv": [12, 0, 14, 6], "texture": "#0"},
+				"east": {"uv": [12, 6, 14, 12], "texture": "#0"},
+				"south": {"uv": [14, 6, 16, 12], "texture": "#0"},
+				"west": {"uv": [14, 0, 16, 6], "texture": "#0"},
+				"up": {"uv": [12, 12, 14, 14], "texture": "#0"},
+				"down": {"uv": [14, 12, 16, 14], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 6, 6],
+			"to": [10, 12, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 6, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 6], "texture": "#0"},
+				"east": {"uv": [4, 0, 8, 6], "texture": "#0"},
+				"south": {"uv": [0, 6, 4, 12], "texture": "#0"},
+				"west": {"uv": [4, 6, 8, 12], "texture": "#0"},
+				"up": {"uv": [12, 4, 8, 0], "texture": "#0"},
+				"down": {"uv": [12, 4, 8, 8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [-20.5, 0, 0],
+			"translation": [0, 4.75, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-20.5, 0, 0],
+			"translation": [0, 4.75, 0]
+		},
+		"ground": {
+			"rotation": [-57.92, 14.23, -25.43],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"gui": {
+			"rotation": [25, 0, -40.5],
+			"translation": [0.5, 0, 0]
+		}
+	}
+}

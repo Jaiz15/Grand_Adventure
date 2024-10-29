@@ -1,0 +1,16 @@
+{
+  "structures": [
+    {
+      "structure": "grandadventure:camps",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:concentric_rings",
+    "salt": 127441444,
+    "distance": 10,
+    "spread": 5,
+    "count": 3,
+    "preferred_biomes": "#grandadventure:has_structure/camps"
+  }
+}

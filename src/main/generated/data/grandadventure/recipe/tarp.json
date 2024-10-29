@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "R": {
+      "tag": "minecraft:wool_carpets"
+    }
+  },
+  "pattern": [
+    "RR"
+  ],
+  "result": {
+    "count": 2,
+    "id": "grandadventure:tarp"
+  }
+}

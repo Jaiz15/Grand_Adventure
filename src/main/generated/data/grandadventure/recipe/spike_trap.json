@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "K": {
+      "item": "minecraft:piston"
+    },
+    "L": {
+      "item": "minecraft:pointed_dripstone"
+    },
+    "R": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "pattern": [
+    "LLL",
+    "RKR",
+    "RRR"
+  ],
+  "result": {
+    "count": 1,
+    "id": "grandadventure:spike_trap"
+  }
+}

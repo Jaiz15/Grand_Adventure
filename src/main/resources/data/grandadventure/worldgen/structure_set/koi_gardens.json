@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "grandadventure:koi_gardens",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1971701502,
+    "spacing": 20,
+    "separation": 5
+  }
+}

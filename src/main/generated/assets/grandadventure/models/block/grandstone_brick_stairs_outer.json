@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "grandadventure:block/grandstone_bricks",
+    "side": "grandadventure:block/grandstone_bricks",
+    "top": "grandadventure:block/grandstone_bricks"
+  }
+}

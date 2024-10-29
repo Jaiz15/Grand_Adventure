@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "grandadventure:block/tireblockbottom"
+    },
+    "facing=east": {
+      "model": "grandadventure:block/tireblock_side2"
+    },
+    "facing=north": {
+      "model": "grandadventure:block/tireblockback"
+    },
+    "facing=south": {
+      "model": "grandadventure:block/tireblock"
+    },
+    "facing=up": {
+      "model": "grandadventure:block/tireblocktop"
+    },
+    "facing=west": {
+      "model": "grandadventure:block/tireblock_side"
+    }
+  }
+}

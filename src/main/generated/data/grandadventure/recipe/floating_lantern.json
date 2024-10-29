@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "R": {
+      "item": "minecraft:paper"
+    },
+    "V": {
+      "item": "minecraft:candle"
+    }
+  },
+  "pattern": [
+    "RRR",
+    "R R",
+    "RVR"
+  ],
+  "result": {
+    "count": 1,
+    "id": "grandadventure:floating_lantern"
+  }
+}

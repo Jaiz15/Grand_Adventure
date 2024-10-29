@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "grandadventure:block/tirestack_horizontal",
+      "y": 90
+    },
+    "axis=y": {
+      "model": "grandadventure:block/tirestack"
+    },
+    "axis=z": {
+      "model": "grandadventure:block/tirestack_horizontal"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "L": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "R": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "RRR",
+    " L "
+  ],
+  "result": {
+    "count": 4,
+    "id": "grandadventure:fairy_lights"
+  }
+}

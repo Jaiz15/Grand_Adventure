@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "K": {
+      "item": "minecraft:campfire"
+    },
+    "L": {
+      "item": "minecraft:string"
+    },
+    "O": {
+      "item": "minecraft:barrel"
+    },
+    "R": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "pattern": [
+    "RRR",
+    "RKR",
+    "LOL"
+  ],
+  "result": {
+    "count": 1,
+    "id": "grandadventure:hot_air_balloon"
+  }
+}

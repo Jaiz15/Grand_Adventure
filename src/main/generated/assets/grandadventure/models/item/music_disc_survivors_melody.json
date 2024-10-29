@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "grandadventure:item/music_disc_survivors_melody"
+  }
+}

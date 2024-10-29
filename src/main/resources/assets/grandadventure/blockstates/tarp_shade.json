@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "grandadventure:block/tarp_shade",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "grandadventure:block/tarp_shade"
+    },
+    "facing=south": {
+      "model": "grandadventure:block/tarp_shade_flipped",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "grandadventure:block/tarp_shade_flipped",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "grandadventure:block/tarp_shade_top"
+    },
+    "facing=down": {
+      "model": "grandadventure:block/tarp_shade_top",
+      "y": 90
+    }
+  }
+}

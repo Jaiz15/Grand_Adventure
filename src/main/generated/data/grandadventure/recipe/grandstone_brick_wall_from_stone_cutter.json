@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "grandadventure:grandstone_bricks"
+  },
+  "result": {
+    "count": 1,
+    "id": "grandadventure:grandstone_brick_wall"
+  }
+}

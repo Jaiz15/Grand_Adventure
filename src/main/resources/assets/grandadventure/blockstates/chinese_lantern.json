@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "grandadventure:block/chinese_lantern_ground"
+    },
+    "hanging=true": {
+      "model": "grandadventure:block/chinese_lantern"
+    }
+  }
+}

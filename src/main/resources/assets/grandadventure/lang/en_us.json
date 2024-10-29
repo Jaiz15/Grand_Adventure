@@ -1,0 +1,97 @@
+{
+  "itemgroup.grandadventure": "Adventure Awaits",
+  "item.grandadventure.rock": "Rock",
+  "item.grandadventure.dynamite": "Dynamite",
+
+  "item.grandadventure.hot_air_balloon": "Hot Air Balloon",
+  "entity.grandadventure.hot_air_balloon_entity": "Hot Air Balloon",
+
+  "item.grandadventure.koi_bucket": "Bucket Of Koi",
+  "item.grandadventure.koi_spawn_egg": "Koi Spawn Egg",
+
+  "item.grandadventure.fish_food": "Fish Food",
+
+  "item.grandadventure.drum": "Drum",
+  "item.grandadventure.maraca": "Maraca",
+  "item.grandadventure.guitar": "Guitar",
+
+
+  "item.grandadventure.grandstone_guardian_spawn_egg": "Grandstone Guardian Spawn Egg",
+  "entity.grandadventure.grandstone_guardian": "Grandstone Guardian",
+
+  "item.grandadventure.grand_cannon_spawn_egg": "Grand Cannon Spawn Egg",
+  "entity.grandadventure.grand_cannon": "Grand Cannon",
+
+  "item.grandadventure.grandstone_mite_spawn_egg": "GrandStone Mite Spawn Egg",
+  "entity.grandadventure.grandstone_mite": "GrandStone Mite",
+
+
+  "entity.grandadventure.rock": "Rock",
+  "entity.grandadventure.koi": "Koi",
+  "entity.grandadventure.floating_lantern": "Floating Lantern",
+  "block.grandadventure.floating_lantern": "Floating Lantern",
+
+  "effect.grandadventure.gods_grace": "Gods Grace",
+  "effect.grandadventure.calming": "Calming",
+
+  "block.grandadventure.tarp_shade": "Tarp Shade",
+
+  "block.grandadventure.wild_wheat": "Wild Wheat",
+
+  "block.grandadventure.spike_trap": "Spike Trap",
+
+  "block.grandadventure.chinese_lantern": "Chinese Lantern",
+  "block.grandadventure.fairy_lights": "Fairy Lights",
+
+  "block.grandadventure.tarp": "Tarp",
+
+  "block.grandadventure.growth_moss": "Growth Moss",
+  "block.grandadventure.duckweed": "Duck Weed",
+
+  "block.grandadventure.rust": "Rust",
+  "block.grandadventure.rope_ladder": "Rope Ladder",
+
+  "block.grandadventure.headlight": "Head Light",
+  "block.grandadventure.tire_block": "Tire Block",
+  "block.grandadventure.stacked_tires": "Tire Stack",
+
+  "block.grandadventure.totem_chamber": "Totem Chamber",
+  "item.grandadventure.totem_of_creation": "Totem Of Creation",
+
+  "block.grandadventure.grandstone": "Grandstone",
+  "block.grandadventure.grandstone_bricks": "Grandstone Bricks",
+  "block.grandadventure.smooth_grandstone": "Smooth Grandstone",
+  "block.grandadventure.chiseled_grandstone": "Chiseled Grandstone",
+
+  "block.grandadventure.grandstone_slab": "Grandstone Slab",
+  "block.grandadventure.grandstone_stairs": "Grandstone Stairs",
+  "block.grandadventure.grandstone_wall": "Grandstone Wall",
+
+  "block.grandadventure.grandstone_brick_slab": "Grandstone Brick Slab",
+  "block.grandadventure.grandstone_brick_stairs": "Grandstone Brick Stairs",
+  "block.grandadventure.grandstone_brick_wall": "Grandstone Brick Wall",
+
+  "item.grandadventure.bh_adventure_hat": "Bh's Hat",
+
+
+  "item.grandadventure.music_disc_slum_space": "Music Disc",
+  "item.grandadventure.music_disc_slum_space.desc": "Knightrho - Slum Space",
+
+
+  "item.grandadventure.music_disc_industrial_devolution": "Music Disc",
+  "item.grandadventure.music_disc_industrial_devolution.desc": "Knightrho - Industrial Devolution",
+
+  "item.grandadventure.music_disc_pools_of_life": "Music Disc",
+  "item.grandadventure.music_disc_pools_of_life.desc": "Knightrho - Pools Of Life",
+
+  "item.grandadventure.music_disc_survivors_melody": "Music Disc",
+  "item.grandadventure.music_disc_survivors_melody.desc": "Knightrho - Survivors Melody",
+
+  "item.grandadventure.ancient_castle": "Ancient Map",
+  "item.grandadventure.koi_gardens": "Koi Gardens Map",
+
+  "jukebox_song.grandadventure.pools_of_life": "Knightrho - Pools Of Life",
+  "jukebox_song.grandadventure.slum_space": "Knightrho - Slum Space",
+  "jukebox_song.grandadventure.survivors_melody": "Knightrho - Survivors Melody",
+  "jukebox_song.grandadventure.industrial_devolution": "Knightrho - Industrial Devolution"
+}

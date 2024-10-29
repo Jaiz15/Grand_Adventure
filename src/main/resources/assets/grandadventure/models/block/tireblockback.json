@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [40, 40],
+	"textures": {
+		"0": "grandadventure:block/tireblock",
+		"particle": "grandadventure:block/tireblock"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 6.4, 6.4], "texture": "#0"},
+				"east": {"uv": [6.4, 0, 9.6, 6.4], "texture": "#0"},
+				"south": {"uv": [0, 6.4, 6.4, 12.8], "texture": "#0"},
+				"west": {"uv": [6.4, 6.4, 9.6, 12.8], "texture": "#0"},
+				"up": {"uv": [16, 3.2, 9.6, 0], "texture": "#0"},
+				"down": {"uv": [16, 3.2, 9.6, 6.4], "texture": "#0"}
+			}
+		}
+	]
+}

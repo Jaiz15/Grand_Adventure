@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "stab=0": {
+      "model": "grandadventure:block/spike_trap"
+    },
+    "stab=1": {
+      "model": "grandadventure:block/spike_trap_closed"
+    }
+  }
+}

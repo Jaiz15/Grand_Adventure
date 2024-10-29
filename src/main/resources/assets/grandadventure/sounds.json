@@ -1,0 +1,50 @@
+{
+  "survivors_melody": {
+    "category": "minecraft:record",
+    "sounds": [ {
+      "name": "grandadventure:survivors_melody",
+      "stream": true
+    }]},
+  "pools_of_life": {
+    "category": "minecraft:record",
+    "sounds": [ {
+      "name": "grandadventure:pools_of_life",
+      "stream": true
+    }]},
+  "slum_space": {
+    "category": "minecraft:record",
+    "sounds": [ {
+      "name": "grandadventure:slum_space",
+      "stream": true
+    }]},
+  "industrial_devolution": {
+  "category": "minecraft:record",
+  "sounds": [ {
+    "name": "grandadventure:industrial_devolution",
+    "stream": true
+  }]},
+  "guitar": {
+    "subtitle": "sounds.grandadventure.guitar",
+    "sounds": [
+      "grandadventure:guitar",
+      "grandadventure:guitar2",
+      "grandadventure:guitar3"
+
+    ]
+  },
+  "drum": {
+    "subtitle": "sounds.grandadventure.guitar",
+    "sounds": [
+      "grandadventure:drum",
+      "grandadventure:drum2"
+    ]
+  },
+  "maraca": {
+    "subtitle": "sounds.grandadventure.guitar",
+    "sounds": [
+      "grandadventure:maraca",
+      "grandadventure:maraca2",
+      "grandadventure:maraca3"
+    ]
+  }
+    }
