@@ -14,6 +14,7 @@ import jaiz.grandadventure.world.gen.ModWorldGeneration;
 import net.fabricmc.api.ModInitializer;
 
 import net.fabricmc.fabric.api.object.builder.v1.entity.FabricDefaultAttributeRegistry;
+import net.minecraft.world.gen.trunk.TrunkPlacerType;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
